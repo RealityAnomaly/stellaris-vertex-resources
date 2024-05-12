@@ -1,0 +1,50 @@
+humanoids = {
+	name = HUM
+
+	sets = {
+		cybernetic_humans
+		humans
+		humanoids
+		cybernetic_humanoids
+		synthetic_humanoids
+	}
+}
+
+reptilians = {
+	name = REP
+
+	sets = {
+		reptilians
+		cybernetic_reptilians
+		#vertex_remar_tasen
+	}
+}
+
+avians = {
+	name = AVI
+
+	sets = {
+		avians
+		cybernetic_avians
+		synthetic_avians
+		#vertex_remar_komato
+	}
+}
+
+machines = {
+	name = MACHINE
+
+	sets = {
+		machines
+		vertex_canon_shard
+	}
+}
+
+corrucystic = {
+	name = CORRUCYSTIC
+
+	sets = {
+		vertex_corru_obesk_qou
+		vertex_corru_obesk_golem
+	}
+}
